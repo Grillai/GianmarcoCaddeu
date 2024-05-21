@@ -1,2 +1,0 @@
-[2024-05-21 11:36:14] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/Sito
-[2024-05-21 11:36:15] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/Sito
